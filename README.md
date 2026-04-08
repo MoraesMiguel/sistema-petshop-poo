@@ -88,9 +88,9 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 ---
 
-👤 Autor:
-Miguel Aparecido de Moraes
-🔗 LinkedIn: https://www.linkedin.com/in/oieusoumiguel/
+👤 Autor:<br>
+Miguel Aparecido de Moraes<br>
+🔗 LinkedIn: https://www.linkedin.com/in/oieusoumiguel/ <br>
 🔗 GitHub: https://github.com/MoraesMiguel
 
 ---
